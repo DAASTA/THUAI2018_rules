@@ -33,6 +33,7 @@
 
 - [开发日志](https://github.com/DAASTA/THUAI2018_rules/blob/master/log/log.md)
 - [第一次全体会](https://github.com/DAASTA/THUAI2018_rules/blob/master/log/20171213.md)
+- [第二次全体会](https://github.com/DAASTA/THUAI2018_rules/blob/master/log/20180118.md)
 
 ## 游戏规则设定
 
