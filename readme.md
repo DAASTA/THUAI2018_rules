@@ -1,5 +1,22 @@
 # 清华大学2018年度人工智能挑战赛
 
+## 快速链接
+
+[报名网站](http://123.207.140.186/)
+
+各组别参赛网站
+
+- [A1组/队式/TS19](https://ts19.eesast.com/)
+- [A2组/新生C/FC15](http://fc15.thu-ai.cn/)
+- [B组](http://59.66.138.28/) 
+
+
+游戏规则设定
+
+- [A1组规则](https://ts19.eesast.com/backend/download/file/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8C%91%E6%88%98%E8%B5%9BA1%E7%BB%84%E8%B5%9B%E9%A2%98%E6%96%87%E6%A1%A3.docx)
+- [A2组规则](http://fc15.thu-ai.cn/download_manual/)
+- [B组规则](http://59.66.138.28/download_manual/)
+
 ## 概述
 
 2018年清华大学人工智能挑战赛，由校科协赛事部指导，电子、自动化、电机、工物、汽车、计算机、软院等多个院系科协联合主办。
@@ -10,7 +27,26 @@
 - 原自动化系[新生C比赛](https://daasta.cn/wiki/doku.php?id=%E6%96%B0%E7%94%9Fc)
 - 原电机系、工物系、汽车系等院系的新生C比赛
 
-更多大赛相关消息，请参考[第一次全体会记录](https://github.com/DAASTA/THUAI2018_rules/blob/master/log/20171213.md)
+
+## 参赛对象要求
+
+参赛细则已通过纸质版参赛手册发布。摘录重点如下：
+
+- 仅限清华大学本科生。
+- B组为个人赛，且仅限七字班新生参加。
+- 每名同学只能参与一个组别的奖项评比。
+
+## 参赛流程
+
+目前计划流程如下：
+
+- ~2018.04.07；报名阶段。报名阶段结束后无法变更队伍信息。
+- 2018.04.14：预选排位赛。仅供选手参考。
+- 2018.04.23：正选报名。**必须**在正选报名中确认自己要参与评奖的1个组别。
+- 2018.04.28：正选排位赛。在科展现场公布决赛名单。
+- 2018.05.12：决赛。
+
+---
 
 ## 筹备组
 
@@ -35,10 +71,6 @@
 - [第一次全体会](https://github.com/DAASTA/THUAI2018_rules/blob/master/log/20171213.md)
 - [第二次全体会](https://github.com/DAASTA/THUAI2018_rules/blob/master/log/20180118.md)
 
-## 游戏规则设定
-
-- [开发组A1规则初稿](https://github.com/DAASTA/THUAI2018_rules/blob/master/rules/ts.19.rule.md)
-- [开发组A2规则初稿](https://github.com/DAASTA/THUAI2018_rules/blob/master/rules/fc.15.rule.md)
 
 <br>
 <br>
